@@ -1,7 +1,8 @@
-
 {
   "name": "ff-backend",
   "version": "1.0.0",
-  "scripts": {"start": "vercel dev"},
+  "scripts": {
+    "start": "vercel dev"
+  },
   "dependencies": {}
 }
